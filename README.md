@@ -1,0 +1,2 @@
+# utl_find_all_sequences_of_1_1_in_0_0_0_1_1_0_1_1_1_0_0_1
+Find all sequences of 1,1 in 0, 0, 0, 1, 1, 0, 1, 1, 1, 0, 0, 1.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
